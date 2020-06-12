@@ -9,7 +9,7 @@ git clone https://github.com/ceruizdev/netcoreapi-library.git
  
 ### 3. Realizar migraciones - nuget
 ```
-   add-migration initialCreate
+   add-migration initial
 ```
 
 ```
