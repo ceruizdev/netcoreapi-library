@@ -1,0 +1,12 @@
+C:\Users\cerui\OneDrive\Desktop\prueba bluesoft\REST\Solution\Models\bin\Debug\netcoreapp2.2\Models.deps.json
+C:\Users\cerui\OneDrive\Desktop\prueba bluesoft\REST\Solution\Models\bin\Debug\netcoreapp2.2\Models.dll
+C:\Users\cerui\OneDrive\Desktop\prueba bluesoft\REST\Solution\Models\bin\Debug\netcoreapp2.2\Models.pdb
+C:\Users\cerui\OneDrive\Desktop\prueba bluesoft\REST\Solution\Models\obj\Debug\netcoreapp2.2\Models.csprojAssemblyReference.cache
+C:\Users\cerui\OneDrive\Desktop\prueba bluesoft\REST\Solution\Models\obj\Debug\netcoreapp2.2\Models.AssemblyInfoInputs.cache
+C:\Users\cerui\OneDrive\Desktop\prueba bluesoft\REST\Solution\Models\obj\Debug\netcoreapp2.2\Models.AssemblyInfo.cs
+C:\Users\cerui\OneDrive\Desktop\prueba bluesoft\REST\Solution\Models\obj\Debug\netcoreapp2.2\Models.dll
+C:\Users\cerui\OneDrive\Desktop\prueba bluesoft\REST\Solution\Models\obj\Debug\netcoreapp2.2\Models.pdb
+C:\Users\cerui\OneDrive\Desktop\prueba bluesoft\REST\Solution\Models\bin\Debug\netcoreapp2.2\Models.runtimeconfig.json
+C:\Users\cerui\OneDrive\Desktop\prueba bluesoft\REST\Solution\Models\bin\Debug\netcoreapp2.2\Models.runtimeconfig.dev.json
+C:\Users\cerui\OneDrive\Desktop\prueba bluesoft\REST\Solution\Models\obj\Debug\netcoreapp2.2\Models.csproj.CoreCompileInputs.cache
+C:\Users\cerui\OneDrive\Desktop\prueba bluesoft\REST\Solution\Models\obj\Debug\netcoreapp2.2\Models.genruntimeconfig.cache

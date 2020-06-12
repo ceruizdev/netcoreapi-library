@@ -1,0 +1,14 @@
+C:\Users\cerui\OneDrive\Desktop\prueba bluesoft\REST\Solution\UnitOfWork\bin\Debug\netcoreapp2.2\UnitOfWork.deps.json
+C:\Users\cerui\OneDrive\Desktop\prueba bluesoft\REST\Solution\UnitOfWork\bin\Debug\netcoreapp2.2\UnitOfWork.dll
+C:\Users\cerui\OneDrive\Desktop\prueba bluesoft\REST\Solution\UnitOfWork\bin\Debug\netcoreapp2.2\UnitOfWork.pdb
+C:\Users\cerui\OneDrive\Desktop\prueba bluesoft\REST\Solution\UnitOfWork\bin\Debug\netcoreapp2.2\Models.dll
+C:\Users\cerui\OneDrive\Desktop\prueba bluesoft\REST\Solution\UnitOfWork\bin\Debug\netcoreapp2.2\Repositories.dll
+C:\Users\cerui\OneDrive\Desktop\prueba bluesoft\REST\Solution\UnitOfWork\bin\Debug\netcoreapp2.2\Repositories.pdb
+C:\Users\cerui\OneDrive\Desktop\prueba bluesoft\REST\Solution\UnitOfWork\bin\Debug\netcoreapp2.2\Models.pdb
+C:\Users\cerui\OneDrive\Desktop\prueba bluesoft\REST\Solution\UnitOfWork\obj\Debug\netcoreapp2.2\UnitOfWork.csprojAssemblyReference.cache
+C:\Users\cerui\OneDrive\Desktop\prueba bluesoft\REST\Solution\UnitOfWork\obj\Debug\netcoreapp2.2\UnitOfWork.csproj.CoreCompileInputs.cache
+C:\Users\cerui\OneDrive\Desktop\prueba bluesoft\REST\Solution\UnitOfWork\obj\Debug\netcoreapp2.2\UnitOfWork.AssemblyInfoInputs.cache
+C:\Users\cerui\OneDrive\Desktop\prueba bluesoft\REST\Solution\UnitOfWork\obj\Debug\netcoreapp2.2\UnitOfWork.AssemblyInfo.cs
+C:\Users\cerui\OneDrive\Desktop\prueba bluesoft\REST\Solution\UnitOfWork\obj\Debug\netcoreapp2.2\UnitOfWork.csproj.CopyComplete
+C:\Users\cerui\OneDrive\Desktop\prueba bluesoft\REST\Solution\UnitOfWork\obj\Debug\netcoreapp2.2\UnitOfWork.dll
+C:\Users\cerui\OneDrive\Desktop\prueba bluesoft\REST\Solution\UnitOfWork\obj\Debug\netcoreapp2.2\UnitOfWork.pdb

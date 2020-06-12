@@ -1,0 +1,16 @@
+C:\Users\cerui\OneDrive\Desktop\prueba bluesoft\REST\Solution\DataAccess\obj\Debug\netcoreapp2.2\DataAccess.csprojAssemblyReference.cache
+C:\Users\cerui\OneDrive\Desktop\prueba bluesoft\REST\Solution\DataAccess\obj\Debug\netcoreapp2.2\DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\cerui\OneDrive\Desktop\prueba bluesoft\REST\Solution\DataAccess\obj\Debug\netcoreapp2.2\DataAccess.AssemblyInfoInputs.cache
+C:\Users\cerui\OneDrive\Desktop\prueba bluesoft\REST\Solution\DataAccess\obj\Debug\netcoreapp2.2\DataAccess.AssemblyInfo.cs
+C:\Users\cerui\OneDrive\Desktop\prueba bluesoft\REST\Solution\DataAccess\bin\Debug\netcoreapp2.2\DataAccess.deps.json
+C:\Users\cerui\OneDrive\Desktop\prueba bluesoft\REST\Solution\DataAccess\bin\Debug\netcoreapp2.2\DataAccess.dll
+C:\Users\cerui\OneDrive\Desktop\prueba bluesoft\REST\Solution\DataAccess\bin\Debug\netcoreapp2.2\DataAccess.pdb
+C:\Users\cerui\OneDrive\Desktop\prueba bluesoft\REST\Solution\DataAccess\bin\Debug\netcoreapp2.2\Models.dll
+C:\Users\cerui\OneDrive\Desktop\prueba bluesoft\REST\Solution\DataAccess\bin\Debug\netcoreapp2.2\Repositories.dll
+C:\Users\cerui\OneDrive\Desktop\prueba bluesoft\REST\Solution\DataAccess\bin\Debug\netcoreapp2.2\UnitOfWork.dll
+C:\Users\cerui\OneDrive\Desktop\prueba bluesoft\REST\Solution\DataAccess\bin\Debug\netcoreapp2.2\Models.pdb
+C:\Users\cerui\OneDrive\Desktop\prueba bluesoft\REST\Solution\DataAccess\bin\Debug\netcoreapp2.2\Repositories.pdb
+C:\Users\cerui\OneDrive\Desktop\prueba bluesoft\REST\Solution\DataAccess\bin\Debug\netcoreapp2.2\UnitOfWork.pdb
+C:\Users\cerui\OneDrive\Desktop\prueba bluesoft\REST\Solution\DataAccess\obj\Debug\netcoreapp2.2\DataAccess.csproj.CopyComplete
+C:\Users\cerui\OneDrive\Desktop\prueba bluesoft\REST\Solution\DataAccess\obj\Debug\netcoreapp2.2\DataAccess.dll
+C:\Users\cerui\OneDrive\Desktop\prueba bluesoft\REST\Solution\DataAccess\obj\Debug\netcoreapp2.2\DataAccess.pdb
